@@ -1,0 +1,15 @@
+Port,Pin,AF0,AF1,AF2,AF3,AF4,AF5,AF6,AF7,AF8,AF9,AF10,AF11,AF12,AF13,AF14,AF15,ADC
+PA,0,,,,,,,,,,,,,,,,,ADC1_IN0
+PA,1,,,,,,,,,,,,,,,,,ADC1_IN1
+PA,2,,,,,,,,,,,,,,,,,ADC1_IN2
+PA,3,,,,,,,,,,,,,,,,,ADC1_IN3
+PA,4,,,,,,,,,,,,,,,,,ADC1_IN4
+PA,5,,,,,,,,,,,,,,,,,ADC1_IN5
+PA,6,,,,,,,,,,,,,,,,,ADC1_IN6
+PA,7,,,,,,,,,,,,,,,,,ADC1_IN7
+PA,8,,,,,,,,,,,,,,,,,
+PA,9,,,,,,,,,,,,,,,,,
+PA,10,,,,,,,,,,,,,,,,,
+PB,0,,,,,,,,,,,,,,,,,
+PC,13,,,,,,,,,,,,,,,,,
+# Add more pins and alternate functions as needed for your board
